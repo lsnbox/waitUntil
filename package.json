@@ -1,8 +1,9 @@
 {
-  "name": "@lsnbox/wait-until-match",
-  "version": "1.1.2",
+  "name": "@lsnbox/gitlab-ci-tools",
+  "version": "0.0.6",
   "bin": {
-    "wait-until-match": "index.js"
+    "gct": "index.js",
+    "gitlab-ci-tools": "index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
